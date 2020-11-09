@@ -1,0 +1,4 @@
+1~kris~39~male~married
+2~marilyn~38~female~married
+3~calaisha ~15~female~single
+4~cashlly~8~female~single
