@@ -1,6 +1,6 @@
-import pwd1
+from pwd1 import Password
 from studentfile import Studentdata
-pwd1.Pwd('kris', 'kris888')
+Password.Passwd('kris', 'kris888')
 st = 'n'
 while(st=='n'):
     print('Welcome to Student record system')
